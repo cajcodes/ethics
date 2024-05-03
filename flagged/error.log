@@ -1,0 +1,52 @@
+[2024-04-29 20:17:05 -0500] [10747] [INFO] Starting gunicorn 22.0.0
+[2024-04-29 20:17:05 -0500] [10747] [INFO] Listening at: http://0.0.0.0:8000 (10747)
+[2024-04-29 20:17:05 -0500] [10747] [INFO] Using worker: sync
+[2024-04-29 20:17:05 -0500] [10748] [INFO] Booting worker with pid: 10748
+[2024-04-29 20:17:05 -0500] [10749] [INFO] Booting worker with pid: 10749
+[2024-04-29 20:17:05 -0500] [10750] [INFO] Booting worker with pid: 10750
+[2024-04-29 20:17:05 -0500] [10751] [INFO] Booting worker with pid: 10751
+[2024-04-29 20:17:05 -0500] [10750] [INFO] Flask app initialized
+[2024-04-29 20:17:05 -0500] [10748] [INFO] Flask app initialized
+[2024-04-29 20:17:05 -0500] [10749] [INFO] Flask app initialized
+[2024-04-29 20:17:05 -0500] [10751] [INFO] Flask app initialized
+[2024-04-29 20:17:30 -0500] [10750] [INFO] Serving path: 
+[2024-04-29 20:17:30 -0500] [10750] [WARNING] Serving index.html for path: 
+[2024-04-29 20:17:30 -0500] [10749] [INFO] Serving path: manifest.json
+[2024-04-29 20:17:31 -0500] [10749] [INFO] Serving path: ec2-3-90-111-188.compute-1.amazonaws.com/api/steps
+[2024-04-29 20:17:31 -0500] [10749] [WARNING] Serving index.html for path: ec2-3-90-111-188.compute-1.amazonaws.com/api/steps
+[2024-04-29 20:17:57 -0500] [10750] [INFO] Serving path: 
+[2024-04-29 20:17:57 -0500] [10750] [WARNING] Serving index.html for path: 
+[2024-04-29 20:17:57 -0500] [10750] [INFO] Serving path: manifest.json
+[2024-04-29 20:17:57 -0500] [10751] [INFO] Serving path: ec2-3-90-111-188.compute-1.amazonaws.com/api/steps
+[2024-04-29 20:17:57 -0500] [10751] [WARNING] Serving index.html for path: ec2-3-90-111-188.compute-1.amazonaws.com/api/steps
+[2024-04-29 20:18:12 -0500] [10748] [INFO] Serving path: 
+[2024-04-29 20:18:12 -0500] [10748] [WARNING] Serving index.html for path: 
+[2024-04-29 20:18:12 -0500] [10750] [INFO] Serving path: ec2-3-90-111-188.compute-1.amazonaws.com/api/steps
+[2024-04-29 20:18:12 -0500] [10750] [WARNING] Serving index.html for path: ec2-3-90-111-188.compute-1.amazonaws.com/api/steps
+[2024-04-29 20:18:12 -0500] [10751] [INFO] Serving path: manifest.json
+[2024-04-29 20:18:12 -0500] [10750] [INFO] Serving path: favicon.png
+[2024-04-29 20:18:12 -0500] [10751] [INFO] Serving path: webclip192.jpg
+[2024-04-29 20:18:14 -0500] [10749] [INFO] Serving path: manifest.json
+[2024-04-29 20:18:52 -0500] [10747] [INFO] Handling signal: int
+[2024-04-29 20:18:52 -0500] [10750] [INFO] Worker exiting (pid: 10750)
+[2024-04-29 20:18:52 -0500] [10751] [INFO] Worker exiting (pid: 10751)
+[2024-04-29 20:18:52 -0500] [10748] [INFO] Worker exiting (pid: 10748)
+[2024-04-29 20:18:52 -0500] [10749] [INFO] Worker exiting (pid: 10749)
+[2024-04-29 20:18:52 -0500] [10747] [INFO] Shutting down: Master
+[2024-04-30 11:52:46 -0500] [33817] [INFO] Starting gunicorn 22.0.0
+[2024-04-30 11:52:46 -0500] [33817] [INFO] Listening at: http://0.0.0.0:8000 (33817)
+[2024-04-30 11:52:46 -0500] [33817] [INFO] Using worker: sync
+[2024-04-30 11:52:46 -0500] [33818] [INFO] Booting worker with pid: 33818
+[2024-04-30 11:52:46 -0500] [33819] [INFO] Booting worker with pid: 33819
+[2024-04-30 11:52:46 -0500] [33820] [INFO] Booting worker with pid: 33820
+[2024-04-30 11:52:46 -0500] [33821] [INFO] Booting worker with pid: 33821
+[2024-04-30 11:52:46 -0500] [33820] [INFO] Flask app initialized
+[2024-04-30 11:52:46 -0500] [33818] [INFO] Flask app initialized
+[2024-04-30 11:52:46 -0500] [33819] [INFO] Flask app initialized
+[2024-04-30 11:52:46 -0500] [33821] [INFO] Flask app initialized
+[2024-04-30 11:54:26 -0500] [33817] [INFO] Handling signal: int
+[2024-04-30 11:54:26 -0500] [33820] [INFO] Worker exiting (pid: 33820)
+[2024-04-30 11:54:26 -0500] [33818] [INFO] Worker exiting (pid: 33818)
+[2024-04-30 11:54:26 -0500] [33821] [INFO] Worker exiting (pid: 33821)
+[2024-04-30 11:54:26 -0500] [33819] [INFO] Worker exiting (pid: 33819)
+[2024-04-30 11:54:26 -0500] [33817] [INFO] Shutting down: Master
